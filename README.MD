@@ -8,6 +8,8 @@ A simple Box2D and SDL2 demo showcasing dynamic and static boxes with basic phys
 - **Cross**: Create dynamic boxes (Red)
 - **Circle**: Create static boxes (Green)
 - **Square**: Clear all static boxes (Green)
+- **L1**: Decrease the size of all boxes
+- **R1**: Increase the size of all boxes
 
 
 ## Credits:
