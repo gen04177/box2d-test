@@ -10,6 +10,8 @@ A simple Box2D and SDL2 demo showcasing dynamic and static boxes with basic phys
 - **Square**: Clear all static boxes (Green)
 - **L1**: Decrease the size of all boxes
 - **R1**: Increase the size of all boxes
+- **Triangle**: Remove all boxes in the cursor area
+
 
 
 ## Credits:
