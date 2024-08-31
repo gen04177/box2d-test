@@ -20,4 +20,5 @@ A simple Box2D and SDL2 demo showcasing dynamic and static boxes with basic phys
 More info: 
 
 https://github.com/erincatto/box2d
+
 https://github.com/ocornut/imgui
