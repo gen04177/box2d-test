@@ -17,4 +17,7 @@ A simple Box2D and SDL2 demo showcasing dynamic and static boxes with basic phys
 - J. Tornblom - SDK and required payloads.
 
 
-More info: https://github.com/erincatto/box2d
+More info: 
+
+https://github.com/erincatto/box2d
+https://github.com/ocornut/imgui
