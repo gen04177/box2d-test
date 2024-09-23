@@ -1,6 +1,6 @@
 # box2d-test
 
-A simple Box2D and SDL2 demo showcasing dynamic and static boxes with basic physics.
+A simple Box2D, Dear ImGui and SDL2 demo showcasing dynamic and static boxes with basic physics.
 
 ## Controls:
 
