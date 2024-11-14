@@ -5,18 +5,19 @@ A simple Box2D, Dear ImGui and SDL2 demo showcasing dynamic and static boxes wit
 ## Controls:
 
 - **Left Stick**: Move the cursor (Blue)
-- **Cross**: Create dynamic boxes (Red)
-- **Circle**: Create static boxes (Green)
-- **Square**: Clear all static boxes (Green)
-- **L1**: Decrease the size of all boxes
-- **R1**: Increase the size of all boxes
-- **Triangle**: Remove all boxes in the cursor area
+- **Cross/B**: Create dynamic boxes (Red)
+- **Circle/A**: Create static boxes (Green)
+- **Square/Y**: Clear all static boxes (Green)
+- **L1/L**: Decrease the size of all boxes
+- **R1/R**: Increase the size of all boxes
+- **Triangle/X**: Remove all boxes in the cursor area
 
 
 
 ## Credits:
 
-- J. Tornblom - SDK and required payloads.
+- devkitPro - SDK (Switch).
+- J. Törnblom - SDK (PS5).
 
 
 More info: 
